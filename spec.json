@@ -1,0 +1,50 @@
+{
+    "name":  "photo-denoise",
+    "logo":  "🧽",
+    "exe":  "PhotoDenoise.exe",
+    "desc":  "Free, open-source photo denoiser for Windows — clean high-ISO night shots with local models, batch folders. 100 MB portable, offline, MIT.",
+    "topics":  [
+                   "photo-denoise",
+                   "noise-reduction",
+                   "high-iso",
+                   "image-editing",
+                   "onnx",
+                   "ai-tools",
+                   "windows",
+                   "windows-10",
+                   "windows-11",
+                   "csharp",
+                   "dotnet",
+                   "raw-photos",
+                   "batch-processing",
+                   "low-light",
+                   "detail-preserve",
+                   "portable",
+                   "open-source",
+                   "mit-license"
+               ],
+    "features":  [
+                     "✅ **Local denoise models** — ONNX networks clean ISO 6400 shots without a subscription or an upload",
+                     "✅ **Detail guard slider** — balance between smearing skin and leaving chroma noise, with a zoom loupe",
+                     "✅ **Shadow boost** — lift dark areas after denoising so night shots stay readable",
+                     "✅ **Batch night shoots** — a folder of hundreds of RAWs or JPEGs processed overnight",
+                     "✅ **Before and after loupe** — 200 percent zoom comparison follows your cursor",
+                     "✅ **EXIF preservation** — camera metadata kept intact through the whole pipeline",
+                     "✅ **100 MB self-contained exe** — runtime bundled, models download separately, offline after that, MIT"
+                 ],
+    "compare":  [
+                    "| Feature | **photo-denoise** | Topaz DeNoise | Lightroom denoise | RawTherapee |",
+                    "|---|:---:|:---:|:---:|:---:|",
+                    "| Price | **Free, MIT** | Paid | Subscription | Free, OSS |",
+                    "| Open source | **Yes** | No | No | Yes |",
+                    "| Batch folders | **Yes** | Yes | No | Partial",
+                    "| Fully offline | **Yes** | Yes | No | Yes",
+                    "| Detail guard control | **Yes** | Partial | Partial | Manual",
+                    "| Portable, no install | **Yes, 100 MB** | Installer | Installer | Installer"
+                ],
+    "faqQ":  "free AI denoise for noisy high-ISO photos on Windows?",
+    "faqA":  "Paid denoisers cost more than the lens and Lightroom needs a subscription plus uploads nothing but your patience. photo-denoise runs local models with a detail guard and processes whole night shoots in batch. It is a 100 MB portable exe, MIT, offline, and keeps your EXIF data untouched.",
+    "s1":  "Dark darkroom (#121417, cyan #0E7490): before and after panes of a night street shot at 200 percent loupe, detail guard slider at 0.65, ISO 6400 badge.",
+    "s2":  "Batch panel: 480 RAW files queued from one shoot, progress at 39 percent, per-file status dots, output folder chip set to final.",
+    "s3":  "Comparison loupe: cursor-following zoom inset showing noise before and texture after, shadow boost at plus 0.4, EXIF preservation checked."
+}
